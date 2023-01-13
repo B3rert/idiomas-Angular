@@ -109,7 +109,3 @@ Finalmete para hacer uso de los archivos que se acaban de crear se hace el llama
 ```html
   <h1>{{ 'principal.texto' | translate }}</h1>
 ```
-
-## Demo
-
- 

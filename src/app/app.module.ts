@@ -8,10 +8,12 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
 
 
 import { AppComponent } from './app.component';
+import { TranslationComponent } from './component/translation/translation.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TranslationComponent
   ],
   imports: [
     BrowserModule,
